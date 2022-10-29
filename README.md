@@ -3,7 +3,7 @@ This is a repository that contains codewars challenges (kata). Completed over 80
 
 **Link to project:** https://www.codewars.com/users/Kenny1D/stats
 
-![alt tag](https://github.com/KennyMod/CodeWars/blob/main/codewars-stats.png)
+![alt tag](https://github.com/KennyMod/python/blob/main/codewars%20stats.png)
 
 ## How It's Made:
 
